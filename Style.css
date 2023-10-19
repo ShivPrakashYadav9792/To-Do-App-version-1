@@ -1,0 +1,55 @@
+.baharwala{
+    width:auto;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.bu{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+#naya{
+    background-color: aliceblue;
+}
+.task{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border:1px solid green;
+    padding: 12px;
+    margin:8px
+    
+}
+.task2{
+    color:blue
+}
+.bu2{
+    margin-left: 20px;
+}
+button{
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: green;
+    color: antiquewhite;
+
+}
+input{
+    width: 300px;
+    height: 35px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin-top: 100px;
+
+}
+.naya{
+    border: 2px solid black;
+        border-radius: 10px;
+}
+body{
+    background-color:aqua;
+}
